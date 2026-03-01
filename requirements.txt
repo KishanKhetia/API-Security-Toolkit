@@ -1,0 +1,9 @@
+# Requirements for the API Security Toolkit
+
+requests>=2.0
+urllib3>=1.25
+rich>=12.0
+
+# optional (not imported by default but handy):
+# tabulate>=0.8
+# PyJWT>=2.0
